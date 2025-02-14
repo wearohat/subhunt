@@ -17,7 +17,5 @@ This script automates the process of discovering subdomains for a given domain b
 
 ## Usage
 
-### Make the script executable:
-
 ```bash
-chmod +x subhunt.sh
+chmod +x subhunt.sh && ./subhunt.sh
